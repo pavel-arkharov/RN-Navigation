@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "NavLabwork",
+    "slug": "NavLabwork",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "NavLabwork"
+}
